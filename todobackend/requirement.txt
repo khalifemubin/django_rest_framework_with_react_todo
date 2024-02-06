@@ -1,0 +1,5 @@
+cffi @ file:///private/tmp/cffi-20231015-5876-1oubxev/cffi-1.16.0
+docutils @ file:///private/tmp/docutils-20231016-5777-1hh809k/docutils-0.20.1
+pycparser @ file:///private/tmp/pycparser-20231013-6010-ksuqao/pycparser-2.21
+pywatchman==1.4.1
+six==1.16.0
